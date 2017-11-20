@@ -14,9 +14,11 @@ function divide(a,b) {
   return a / b
 }
 divide(24,7)
-//var n = 10
-function inc(n) {
-  //var n = 10
+function inc(n) 
   return n += 1
 }
 inc(10)
+function dec(n) 
+  return n -= 1
+}
+dec(10)
