@@ -19,4 +19,4 @@ function inc(n) {
   //var n = 10
   return n++
 }
-inc(2)
+inc()
