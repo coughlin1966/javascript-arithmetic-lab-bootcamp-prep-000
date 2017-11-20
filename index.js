@@ -14,8 +14,8 @@ function divide(a,b) {
   return a / b
 }
 divide(24,7)
-var number = 44
-function inc(number) {
-  return number++
+var number = 10
+function inc() {
+  return number += 1
 }
-inc(number)
+inc()
