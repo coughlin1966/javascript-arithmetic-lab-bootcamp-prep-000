@@ -1,1 +1,3 @@
-1+80
+function (a, b) {
+  return a + b
+}
