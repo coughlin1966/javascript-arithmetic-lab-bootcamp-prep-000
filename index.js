@@ -14,3 +14,7 @@ function divide(a,b) {
   return a / b
 }
 divide(24,7)
+function inc(n) {
+  return n++
+}
+inc(4)
