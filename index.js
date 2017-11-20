@@ -18,4 +18,4 @@ var number = 44
 function inc(number) {
   return number++
 }
-inc()
+inc(number)
