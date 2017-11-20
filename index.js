@@ -1,1 +1,1 @@
-add(3, 1)
+function add() {}
