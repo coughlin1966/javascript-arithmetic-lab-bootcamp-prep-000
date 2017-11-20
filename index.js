@@ -17,4 +17,4 @@ divide(24,7)
 function inc(n) {
   return n++
 }
-inc(4)
+inc(497)
