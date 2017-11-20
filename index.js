@@ -23,5 +23,6 @@ function dec(n) {
 }
 dec(10)
 function makeInt(n) {
-
+parseInt(n)
 }
+MakeInt('4.256')
